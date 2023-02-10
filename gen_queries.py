@@ -8,5 +8,5 @@ def generate_queries(cols, query):
 		queries.append(formatted_query)
 	queries = ', '.join(queries)
 	# Replace quotes with empty strings and add newlines between the queries for readability
-	queries = queries.replace('"', '').replace(f', {first_letter}', f', \n{first_letter}')
+	queries = queries.replace('"', '').replace(f', {first_letter}', f'\n{first_letter}')
 	return queries
