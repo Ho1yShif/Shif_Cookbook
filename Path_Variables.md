@@ -5,7 +5,7 @@
 
 ## Export PATH to Add Commands
 1. Open your `.bash_profile`. The easiest way to do this is by revealing hidden files in your home directory using `Cmd + Shift + .`, and graphically double-clicking the .`bash_profile` to open it. <br>
-If that doesn't work for you, try the command `sudo nano .bash_profile` and enter your password to open `.bash_profile` as an administrator.
+If that doesn't work for you, try the command `sudo nano .bash_profile` and enter your password to open `.bash_profile` as an administrator. If you do it this way, you'll need to press `Ctrl+X` to exit the file and then press `Y` to confirm your changes.
 
 2. Once `.bash_profile` is open, make sure your PATH is set up properly. It should look like this before you change anything:
 ```
