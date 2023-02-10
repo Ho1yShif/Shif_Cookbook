@@ -1,2 +1,2 @@
 # Shif_Cookbook
-A central place to store commonly used code and procedures
+A central place to store useful code and processes.
